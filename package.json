@@ -1,5 +1,4 @@
 {
-  "$schema": "http://json.schemastore.org/package",
   "name": "professional-backend-setup",
   "version": "1.0.0",
   "description": "A professional backend setup",
